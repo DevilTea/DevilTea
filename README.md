@@ -11,7 +11,7 @@
 
 - 👯 I’m currently collaborating on [COSCUP 2021 official website](https://github.com/COSCUP/2021)
 
-- 📝 I regularly write articles on [https:/deviltea.me](https:/deviltea.me)
+- 📝 I regularly write articles on [https://deviltea.me](https://deviltea.me)
 
 - 📫 How to reach me **ch19980814@gmail.com**
 
